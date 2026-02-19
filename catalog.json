@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "email": "24f2000838@ds.study.iitm.ac.in",
+    "version": "ac9e2bac"
+  },
+  "products": [
+    { "id": "prod-ac9e2bac-001", "name": "Elite Item 1", "category": "home", "price": 153.24, "stock": 181, "rating": 1.4 },
+    { "id": "prod-ac9e2bac-002", "name": "Elite Item 2", "category": "books", "price": 319.52, "stock": 141, "rating": 2.8 },
+    { "id": "prod-ac9e2bac-003", "name": "Pro Item 3", "category": "home", "price": 145.54, "stock": 29, "rating": 2 },
+    { "id": "prod-ac9e2bac-004", "name": "Premium Item 4", "category": "electronics", "price": 393.68, "stock": 187, "rating": 2.5 },
+    { "id": "prod-ac9e2bac-005", "name": "Standard Item 5", "category": "books", "price": 293.91, "stock": 24, "rating": 4.7 },
+    { "id": "prod-ac9e2bac-006", "name": "Standard Item 6", "category": "clothing", "price": 422.85, "stock": 173, "rating": 2.1 },
+    { "id": "prod-ac9e2bac-007", "name": "Premium Item 7", "category": "electronics", "price": 130.78, "stock": 147, "rating": 2.8 },
+    { "id": "prod-ac9e2bac-008", "name": "Standard Item 8", "category": "clothing", "price": 297.77, "stock": 79, "rating": 2.5 },
+    { "id": "prod-ac9e2bac-009", "name": "Elite Item 9", "category": "home", "price": 434.38, "stock": 55, "rating": 1.4 },
+    { "id": "prod-ac9e2bac-010", "name": "Elite Item 10", "category": "sports", "price": 498.01, "stock": 18, "rating": 4.5 },
+    { "id": "prod-ac9e2bac-011", "name": "Premium Item 11", "category": "electronics", "price": 411.79, "stock": 112, "rating": 3.2 },
+    { "id": "prod-ac9e2bac-012", "name": "Pro Item 12", "category": "clothing", "price": 125.5, "stock": 112, "rating": 2.4 },
+    { "id": "prod-ac9e2bac-013", "name": "Basic Item 13", "category": "electronics", "price": 39.44, "stock": 57, "rating": 2.1 },
+    { "id": "prod-ac9e2bac-014", "name": "Premium Item 14", "category": "books", "price": 18.28, "stock": 195, "rating": 4.1 },
+    { "id": "prod-ac9e2bac-015", "name": "Basic Item 15", "category": "books", "price": 417.01, "stock": 182, "rating": 2.6 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 110732.88
+    }
+  }
+}
